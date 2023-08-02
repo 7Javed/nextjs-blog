@@ -1,0 +1,31 @@
+h1 {
+    color: skyblue;
+    font-size: 60px;
+    font-style: italic;
+    font-family: Helvetica, sans-serif;
+}
+h2 {
+    font-size: 50px;
+    color: blueviolet;
+    font-style: oblique;
+    background-color: antiquewhite;
+    background-size: auto
+}
+h3 {
+    color: cadetblue;
+    font-size: 40px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 50px;
+}
+h4 {
+    color: darkcyan;
+    font-size: 30px;
+    font-style: inherit;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4.p {
+    color: skyblue;
+    
+}
+
